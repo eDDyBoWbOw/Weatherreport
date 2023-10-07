@@ -1,5 +1,25 @@
 # Weather report
 
+# Table of Contents
+* [Description](#description)
+* [Deployed Page](#deployed-page)
+* [Photos](#photos)
+
+# Description
+
+Weather report
+# Photos
+<img src=""/>
+<img src=""/>
+
+# Deployed Page
+<a href="https://eddybowbow.github.io/Weatherreport/">Deployed Link</a> 
+ 
+# Contact
+<a href="https://github.com/eDDyBoWbOw">Github:Edward T Caldwell</a><br>
+
+[Return to top](#Weather report)
+
 ## Your Task
 
 Third-party APIs allow developers to access their data and functionality by making requests with specific parameters to a URL. Developers are often tasked with retrieving data from another application's API and using it in the context of their own. Your challenge is to build a weather dashboard that will run in the browser and feature dynamically updated HTML and CSS.
@@ -59,3 +79,4 @@ This Challenge is graded based on the following criteria:
     * Uses the OpenWeather API to retrieve weather data.
 
     * Uses `localStorage` to store persistent data.
+
