@@ -9,11 +9,11 @@
 
 Weather report
 # Photos
-<img src=""/>
+<img src="./assets/css/images/Weatherreport.jpg.jpg"/>
 <img src=""/>
 
 # Deployed Page
-<a href="https://eddybowbow.github.io/Weatherreport/">Deployed Link</a> 
+<a href="">Deployed Link</a> 
  
 # Contact
 <a href="https://github.com/eDDyBoWbOw">Github:Edward T Caldwell</a><br>
